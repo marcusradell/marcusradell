@@ -8,7 +8,7 @@ I started to experiment with React and state management using reducers and strea
 
 My state-management masterpiece was `rx-machine`. I used TypeScript, RxJS, and some patterns I invented for state management in React to write a really cool finite state machine lib. By accident, it turned out to be faster than all the popular form libs at the time. https://github.com/marcusradell/rx-machine. Here's the performance test on 1000 fields: https://codesandbox.io/s/rx-machine-1000-fields-8y9nj.
 
-My most starred repo is a web server written in Rust: https://github.com/marcusradell/monadium. I have made more progress in other repos, so ask me directly if you are interested.
+My most starred repo is a web server written in Rust: https://github.com/marcusradell/monadium_v1. I have made more progress in other repos, so ask me directly if you are interested.
 
 I have done a talk in Swedish about junior developers and their careers: https://soundcloud.com/user-840142870/marcus-radell-utvecklares-karriarer. It's a topic I've been passionate about, and before working with it professionally, I mentored devs across the globe on my spare time.
 
