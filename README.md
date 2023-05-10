@@ -2,7 +2,7 @@
 
 My first programming milestone in open source was writing a preconfigured build setup using Gulp and Browserify. It was awesome, but I didn't really get how good it was until webpack came along. Here's the repo: https://github.com/marcusradell/mn-gulp. It's the first npm package I published as well.
 
-One of the best (and last) code tests I did during this time used mn-gulp. I wrote components (directives) in Angular v1, which was rare at the time. I also broke out the logic out of the framework to keep the code organized. The code is pretty simple, but I'm still very proud of it: https://github.com/marcusradell/mn-lol.
+One of the code tests I did during this time used mn-gulp. I wrote components (directives) in Angular v1, which was rare at the time. I also broke out the logic out of the framework to keep the code organized. The code is pretty simple, but I'm still very proud of it: https://github.com/marcusradell/mn-lol.
 
 I started to experiment with React and state management using reducers and streams. Here's some code I used for a presentation: https://github.com/marcusradell/talks-react-first-principles. I kept the code even more out of the framework now, which was a hard sell in the React community.
 
