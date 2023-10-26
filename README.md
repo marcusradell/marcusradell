@@ -1,4 +1,4 @@
-👋 Hi there, you have reached Marcus Radell, Head of Curriculum at https://salt.dev. Please leave a message at my Discord: https://discord.com/invite/59hgZycxYJ.
+👋 Hi there, you have reached Marcus Rådell, Head of Curriculum at https://salt.dev. Please leave a message at my Discord: https://discord.com/invite/59hgZycxYJ.
 
 My first programming milestone in open source was writing a preconfigured build setup using Gulp and Browserify. It was awesome, but I didn't really get how good it was until webpack came along. Here's the repo: https://github.com/marcusradell/mn-gulp. It's the first npm package I published as well.
 
