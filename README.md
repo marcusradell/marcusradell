@@ -1,4 +1,4 @@
-👋 Hi there, you have reached Marcus Rådell, Head of Teaching at https://salt.dev. Please leave a message at my Discord: https://discord.com/invite/59hgZycxYJ.
+👋 Hi there, you have reached Marcus Rådell, an engineering leader with passion for fullstack software development.
 
 My first programming milestone in open source was writing a preconfigured build setup using Gulp and Browserify. It was awesome, but I didn't really get how good it was until webpack came along. Here's the repo: https://github.com/marcusradell/mn-gulp. It's the first npm package I published as well.
 
@@ -16,4 +16,4 @@ My most recent contribution has been to try and document some TypeScript pattern
 
 I've also done a bit of live coding as I'm trying to collaborate more with people interested in writing quality code: https://www.youtube.com/live/KQFAHVMMpjs. It's a topic I hope to contribute more to in the future. You can find the code in the code typing repo above, but in the branch `final_hexagon`.
 
-OK, time to stop stalking my GitHub profile! Developers, get back to coding! Recruiters, if you contact me, be prepared to hear about our great SALT developers (they're better than yours, but I have to charge)! 
+Thank you for taking the time to read about me!
